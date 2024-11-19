@@ -20,9 +20,3 @@ This script is designed to help resolve issues where AltServer cannot detect Alt
 - **Ensure that AltServer is installed and running on your computer before executing this script.**
 - Restarting the "Apple Mobile Device Service" will temporarily stop any ongoing interactions between your device and iTunes or Finder. Make sure to close these applications before running the script.
 
-## Disclaimer
-This script is provided "as is", without warranty of any kind. Use it at your own risk.
-
-## Support
-For further assistance or to report an issue with the script, please visit [AltStore's official support channel](https://altstore.io/support/).
-
